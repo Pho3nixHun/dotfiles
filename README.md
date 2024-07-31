@@ -57,7 +57,25 @@ If anyone besides me stumbles upon this and has suggestions or improvements, fee
 
 ---
 
-**Note:** Note: Some files and configurations are tailored to my personal preferences and may not be universally applicable. Use with caution and adapt as necessary.
+Sure, let's break it down and format it for better readability:
 
-As a self-proclaimed jolly joker in the programming world, I dabble in a bit of everything. My co-workers say I'm a pretty good Architect and an excellent Tech Lead, and I can even pull off being a not-half-bad UX researcher and UI designer—give me a few users and a Figma license, and I'll extract all their secrets (about the product, of course). But primarily, I'm a Frontend guy; I thrive in the chaos. Backend? Too chill for my taste. I prefer my mornings filled with stress, courtesy of the PO dumping today's urgent changes right on my head. Ah, the sweet symphony of impending deadlines!
-These dotfiles and scripts are mainly orbiting around my most used tools: Docker, Git, NodeJS and TypeScript, with a sprinkle of Angular magic. It's all about keeping things fast, tidy, dynamic, and occasionally breaking for no apparent reason—just the way I like it 😏
+## Note
+
+Some files and configurations are tailored to my personal preferences and may not be universally applicable. Use with caution and adapt as necessary.
+
+As a self-proclaimed jolly joker in the programming world, I dabble in a bit of everything:
+
+- Architect: Pretty good, according to my co-workers.
+- Tech Lead: Excellent, or so they say.
+- UX Researcher & UI Designer: Not half-bad if you hand me a few users and a Figma license. I'll get them to spill all their secrets (about the product, of course).
+
+But primarily, I'm a Frontend guy; I thrive in the chaos. Backend? Too chill for my taste. I prefer my mornings filled with stress, courtesy of the PO dumping today's urgent changes right on my head. Ah, the sweet symphony of impending deadlines!
+So these dotfiles and scripts are mainly orbiting around my most-used tools:
+
+- Docker
+- Git
+- NodeJS
+- TypeScript
+- With a sprinkle of Angular magic
+
+It's all about keeping things fast, tidy, dynamic and occasionally breaking for no apparent reason—just the way I like it 😏
